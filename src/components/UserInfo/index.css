@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+
+.image {
+  height: 200px;
+  width: 200px;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.developer {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #616e7c;
+  font-weight: 500;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
